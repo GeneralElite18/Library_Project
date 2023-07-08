@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(101, 131, 158);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mainArea{
+    background-color: aliceblue;
+    border-radius: 2rem;
+    box-shadow: black 2px 2px 1rem;
+}
+
+label{
+    padding: 1rem;
+    display: block;
+}
+
+input{
+    display: flexbox;
+}
+
+#readLabel{
+    display: block;
+}
+
+#hasRead{
+    display: block;
+    margin: 0 auto 1rem;
+}
+
+button{
+    display: flexbox;
+    background-color: rgb(101, 131, 158);
+    color: aliceblue;
+}
